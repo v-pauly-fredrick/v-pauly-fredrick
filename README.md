@@ -3,7 +3,7 @@
 BTW, that picture of me on the left - its pretty old!!!
 
 
-📫 How to reach me - just shoot me an email and **email.depo@aol.com** (yes, you read it right - its __email.depo@aol.com__) 
+📫 How to reach me - just shoot me an email at **email.depo@aol.com** 
 
 
 <!---
