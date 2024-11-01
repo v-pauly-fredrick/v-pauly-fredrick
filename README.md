@@ -1,7 +1,9 @@
-👋 Hiya! I’m __Vinod Paul Fredrick__ (@v-pauly-fredrick), a ServiceNow Dev, based in Mysore, India. Finally decided it's better to collect my scripts and put them into one place. If you find something useful here, feel free to use it!
+👋 Hiya! I’m __Vinod Paul Fredrick__ (@v-pauly-fredrick), a ServiceNow Dev (ITSM, HRSD and CSM), based in Mysore, India. Finally decided it's better to collect my scripts and put them into one place. If you find something useful here, feel free to use it!
+
+BTW, that picture of me on the left - its pretty old!!!
 
 
-📫 How to reach me - just shoot me an email and **email.depo@aol.com** (yes, you read it right - its email.depo@aol.com) 
+📫 How to reach me - just shoot me an email and **email.depo@aol.com** (yes, you read it right - its __email.depo@aol.com__) 
 
 
 <!---
