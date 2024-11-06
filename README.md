@@ -7,8 +7,8 @@
 ---
 ### Reach Me: 
 <a href="https://www.linkedin.com/in/vinfredrick"> <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a> <br>
-:email: email.depo@aol.com (after Skiff.com shutdown, I really like AOL's long-term stability!)
----
+:email: email.depo@aol.com (after Skiff.com shutdown, I really like AOL's stability!)
+
 
 
 
