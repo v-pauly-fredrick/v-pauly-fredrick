@@ -6,7 +6,7 @@
 ### I'm a ServiceNow developer - ITSM, HRSD and CSM modules, based in India, with a complicated love-hate relationship with ServiceNow! 
 ---
 ### Reach Me: 
-<a href="https://www.linkedin.com/in/vinfredrick"> <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a> <br>
+<a href="https://www.linkedin.com/in/vinfredrick"> <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
 :email: email.depo@aol.com (after Skiff.com shutdown, I really like AOL's stability!)
 
 
