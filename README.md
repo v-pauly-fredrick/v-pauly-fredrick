@@ -1,3 +1,8 @@
+<div id="banner" align="center">
+  <img src="https://media.giphy.com/media/v0AtCQs1uLYcHMfj9r/giphy.gif?cid=ecf05e4718vjsswn3g5jcyhofum8fge9s7eehm61ekayp9cx&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+</div>
+
+
 Hiya! I’m __Vinod Paul Fredrick__ (@v-pauly-fredrick), a ServiceNow Dev (ITSM, HRSD and CSM), based in Mysore, India. Finally decided it's better to collect my scripts and put them into one place. If you find something useful here, feel free to use it!
 
 BTW, that picture of me on the left (profile page) - its pretty old!!!
