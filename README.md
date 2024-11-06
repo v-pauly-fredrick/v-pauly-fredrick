@@ -4,6 +4,7 @@
 
 ---
 ### About Me: I'm a ServiceNow developer - ITSM, HRSD and CSM modules, based in India, with a complicated love/hate relationship with ServiceNow! 
+---
 ### Reach Me: <a href="https://www.linkedin.com/in/vinfredrick"> <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>    
 
 
