@@ -1,5 +1,4 @@
 <div id="banner" align="center">
-  <img src="https://media.giphy.com/media/XWKMPYfe30hn3f1f18/giphy.gif?cid=790b7611vx7uhh25m9qjscrss9aespy2bnm2e2m9uor7eimd&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
   <img src="https://media.giphy.com/media/v0AtCQs1uLYcHMfj9r/giphy.gif?cid=790b7611vx7uhh25m9qjscrss9aespy2bnm2e2m9uor7eimd&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
 
