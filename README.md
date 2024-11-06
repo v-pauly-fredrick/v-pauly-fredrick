@@ -9,9 +9,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=v-pauly-fredrick&style=flat-square&color=blue" alt="Vinod Paul Fredrick"/>
 </div>
---> 
 
-<!-- Header Banner Space --> 
 <div id="headerBanner" align="center">
   <img src="https://media.giphy.com/media/fC6YBAROzsz9CSiM0h/giphy.gif?cid=790b7611mo1c0a5z12c1nycrfzpk96ye8udr2dn951904cgt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="450px" height="150px"/> 
   <br>
@@ -19,6 +17,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
 </div>
+
+--> 
+
+<!-- Header Banner Space --> 
+---
+### :man_technologist: About Me :
+
+
 
 
 
