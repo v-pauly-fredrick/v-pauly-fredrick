@@ -13,7 +13,7 @@
 
 <!-- Header Banner Space --> 
 <div id="headerBanner" align=center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl0bGJzNmg3MXhteXk4YW4wODc5d3g3ZjMwOWR0YTJxcG9lYTlndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"/> 
+  <img src="https://media.giphy.com/media/fC6YBAROzsz9CSiM0h/giphy.gif?cid=790b7611mo1c0a5z12c1nycrfzpk96ye8udr2dn951904cgt&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> 
 </div>
 
 <!---
