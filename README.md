@@ -22,7 +22,7 @@
 
 <!-- Header Banner Space --> 
 ---
-### :man_technologist: About Me : I'm a ServiceNow Developer working on the ITSM, HRSD and CMS modules, based in India.
+### :man_technologist: About Me : I'm a ServiceNow Developer working on ITSM, HRSD and CMS modules, based in India.
 
 
 
