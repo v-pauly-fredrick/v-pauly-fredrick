@@ -1,4 +1,4 @@
-<div id="banner" align="center">
+<!-- <div id="banner" align="center">
   <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif?cid=ecf05e47kf49uj6eiaa2twsm0tjy50mgh14hz79j3niev2kv&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
 
@@ -8,6 +8,12 @@
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=v-pauly-fredrick&style=flat-square&color=blue" alt="Vinod Paul Fredrick"/>
+</div>
+--> 
+
+<!-- Header Banner Space --> 
+<div id="headerBanner" align=center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl0bGJzNmg3MXhteXk4YW4wODc5d3g3ZjMwOWR0YTJxcG9lYTlndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"/> 
 </div>
 
 <!---
