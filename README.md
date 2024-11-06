@@ -21,11 +21,9 @@
 --> 
 
 <!-- Header Banner Space --> 
----
-### :man_technologist: About Me : I'm a ServiceNow Developer working on ITSM, HRSD and CMS modules, based in India.
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinfredrick)
-
-
+<div id="headerBanner" align="center"> 
+<img src="(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc0M2VkZDY5ZmU5aWtzMm5wcGNxYnZtaGw2dTQxNnZseXR5b3FyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OVtqvymKkkcTu/giphy.gif)"/>
+</div>
 
 
 <!---
