@@ -22,7 +22,7 @@
 
 <!-- Header Banner Space --> 
 <div id="headerBanner" align="center"> 
-<img src="(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc0M2VkZDY5ZmU5aWtzMm5wcGNxYnZtaGw2dTQxNnZseXR5b3FyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OVtqvymKkkcTu/giphy.gif)"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc0M2VkZDY5ZmU5aWtzMm5wcGNxYnZtaGw2dTQxNnZseXR5b3FyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OVtqvymKkkcTu/giphy.gif"/>
 </div>
 
 
