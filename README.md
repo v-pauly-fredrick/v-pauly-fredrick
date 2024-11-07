@@ -7,7 +7,9 @@
 ---
 ### Reach Me: 
 <a href="https://www.linkedin.com/in/vinfredrick"> <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a> 
-
+---
+### Email Me: 
+:mailbox_with_mail: email.depo@aol.com. ONLY IF YOU REALLY NEED TO!
 
 
 
